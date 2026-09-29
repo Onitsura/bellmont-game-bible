@@ -2,6 +2,21 @@
 
 **Updated:** 2026-09-29
 
+## Master expanded canon
+
+The project has moved from a mostly linear Day 1 structure to the expanded investigation structure in `canon/expanded_game_skeleton.md`.
+
+That file is now the master canon for:
+- the full chapter structure;
+- the three post-box investigation lines (identity / money / building);
+- repeated use of locations and inventory;
+- the major puzzle chain and cross-links between clues;
+- the route toward Nora, the employee-fund investigation, T2-17, Arthur/Leonard, Evelyn's final route and Agreement №317.
+
+The currently implemented route through the box and Victoria conversation remains intact as the prologue / Chapter 1. Exact implemented dialogue is not silently rewritten by the expanded skeleton.
+
+Details explicitly listed as open in section 14 of the expanded skeleton remain undecided until separately approved.
+
 ## Implemented through
 
 Current playable build is implemented through the freight-elevator box discovery and the subsequent conversation with Victoria about the box contents.
@@ -64,20 +79,24 @@ Rules:
 
 ## Audio
 
-Current voice coverage: **307 / 307** current dialogue IDs.
+Current production decision:
+- **Eva** — generated voice;
+- **Victoria, Thomas, Amelia and other principal NPCs** — live actors rather than generated voices.
 
-Accepted voices:
-- Eva — Eleanor / eleven_v3 / speed 0.90 / ru
-- Victoria — Niki / eleven_v3 / speed 0.91 / ru
-- Amelia — Maya / eleven_v3 / speed 0.96 / ru
-- Thomas — Benjamin / eleven_v3 / speed 1.00 / ru
+The current build may still contain previously generated placeholder/legacy clips. New dialogue production should use stable line IDs so live actor files and Eva generation can be replaced/updated without changing dialogue logic.
 
-See `production/voice/voice_implementation.md`.
+See `production/voice/voice_implementation.md` for implementation details; casting notes there may require reconciliation with this current decision.
 
 ## Next work
 
-Continue the 1958 materials scene, beginning with a corrected employee group photograph and then the newspaper/departure materials, while preserving the canonical faces and Bellmont architecture.
+Implement **Chapter 2 — 1958 anniversary materials** as the first production block under the expanded master skeleton:
 
+- locate the anniversary set at the reference desk;
+- build the interactive materials table;
+- let the player inspect booklet / program / photographs / group photograph / newspaper clippings in a non-linear order;
+- confirm Evelyn independently;
+- reach the visual contradiction: the newspaper woman is not Evelyn;
+- preserve the three wider investigation lines without prematurely resolving Nora, the money trail or T2-17.
 
 ## Visual reference reconciliation — 2026-09-29
 
