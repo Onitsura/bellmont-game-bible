@@ -1,817 +1,232 @@
-# Bellmont & Co. — справочная / юбилейная подборка 1958
-## Production brief v3: интерактивный стол, фотографии, Нора/Эвелин и газетная версия об отъезде
+# Bellmont & Co. — 1958 anniversary materials table
 
-**Статус:** эта версия заменяет предыдущие briefs по этапу справочной.
+**Status:** current production brief, updated 2026-09-29.
 
-**Главная идея сцены:** после того как игрок добрался до нужной подборки 1958 года, открывается **один основной предметный экран стола**, на котором физически разложено несколько интерактивных материалов. Игрок сам выбирает, что открыть, читает, рассматривает фотографии, возвращается к столу и постепенно собирает противоречие.
+## 1. Core interaction
 
-Это не линейный коридор из экранов.
+After the player selects the relevant 1958 anniversary material, the game opens **one main tabletop scene** at the reference desk.
 
-Это:
+This is not a linear slideshow.
 
-> **стол → свободный осмотр объектов → отдельные close-up → возврат на стол → новое понимание уже увиденных материалов.**
+The tabletop contains several physical hotspots. The player may inspect them in different orders, open a close-up, read/look, close it, and return to the same table.
 
----
+Target feeling:
 
-# 1. Что уже зафиксировано и не должно меняться
+> rummaging through a real commemorative packet until an old public story stops making sense.
 
-После коробки игрок знает:
+## 2. Main tabletop objects
 
-- коробка адресована Эвелин Беллмонт;
-- Виктория объяснила, что Эвелин — дочь Чарльза Беллмонта;
-- в 1958 году магазином руководил Чарльз;
-- дата коробки — 17 октября 1958;
-- это юбилейная неделя;
-- Bellmont отмечал 50-летие;
-- для юбилея существовал отдельный комплект фотографий, буклетов и газетных вырезок;
-- один такой комплект долго хранился у справочной.
+Use 5–7 believable physical items:
 
-Виктория **прямо опознаёт Эвелин** на половине фотографии:
+1. Bellmont & Co. 50th-anniversary booklet;
+2. anniversary-week program;
+3. a plain photo envelope / paper sleeve / small photo stack;
+4. one large employee anniversary group photograph;
+5. a folder/stack of newspaper clippings;
+6. an internal contents card or simple archival separator;
+7. optional minor paper item for texture.
 
-> **ВИКТОРИЯ:** Это Эвелин.  
-> **ЕВА:** Уверены?  
-> **ВИКТОРИЯ:** Да. Она здесь совсем молодая, но это она.
+### Important: no fake modern labels
 
-Поэтому реплика Евы после независимого подтверждения:
+Do **not** label a folder “Официальные фотографии”.
 
-> **Да. Виктория была права — это Эвелин.**
+That sounds like a game designer categorizing assets, not a real working archive.
 
-сюжетно корректна и уже была зафиксирована в плане.
+Use something plausible and minimal, for example:
+- `Фотографии — юбилей, 1958`
+- `Юбилей / фотографии`
+- handwritten date range;
+- or no heading at all, only a small archival pencil notation.
 
----
+Likewise, avoid overly explanatory labels that tell the player what each hotspot is for.
 
-# 2. Важная новая фиксация этой версии
+## 3. Bellmont naming / geography
 
-## 2.1. Чарльз должен присутствовать в юбилейных материалах
+- Always write **Bellmont & Co.** exactly in English.
+- Do not transliterate the company name.
+- Do not attach the story to St. Louis, Moscow, New York, Chicago or any other named city unless geography is explicitly added to canon later.
+- No city dateline is required in newspaper mockups.
+- Dates use normal Arabic numerals / period-appropriate month text. Do not introduce Roman-numeral dates.
 
-В официальном блоке фотографий должны быть не только снимки Эвелин.
+## 4. Anniversary booklet
 
-Нужны:
-
-- официальный портрет / представительский снимок Чарльза Беллмонта;
-- официальный снимок Эвелин;
-- возможно совместный семейный / представительский кадр Чарльза и Эвелин.
-
-Это естественно для юбилейной подборки магазина, которым в 1958 году руководил Чарльз.
-
----
-
-## 2.2. В групповой фотографии должны одновременно присутствовать Эвелин и Нора
-
-Это важное изменение относительно предыдущей схемы.
-
-В юбилейной подборке должна быть **групповая фотография**, на которой игрок одномоментно видит:
-
-- Эвелин;
-- Нору;
-- других сотрудников / участников юбилейной недели.
-
-### Для производства
-
-Мы знаем, что вторая женщина — **Нора**.
-
-### Для игрока на этом этапе
-
-Имя Норы **ещё не должно автоматически выдаваться**, если мы отдельно не решим иначе.
-
-То есть подпись может быть общей:
-
-> **Участники юбилейной недели Bellmont & Co., октябрь 1958**
-
-или:
-
-> **Эвелин Беллмонт с сотрудниками магазина**
-
-Таким образом игрок впервые получает возможность **увидеть обеих женщин рядом** и запомнить, что это два разных лица.
-
----
-
-## 2.3. Газетная вырезка показывает Нору, но ошибочно называет её Эвелин
-
-Это ключевой механизм блока.
-
-В газетном материале должна быть фотография **Норы**.
-
-Но газета:
-- подписью;
-- заголовком;
-- текстом материала
-
-трактует её как:
-
-> **Эвелин Беллмонт**
-
-Игрок к этому моменту уже видел настоящую Эвелин:
-- на половине фотографии из коробки;
-- на официальной фотографии;
-- на групповой фотографии рядом с Норой.
-
-Поэтому ошибка становится визуально доказуемой.
-
----
-
-## 2.4. Газетная публикация должна сообщать об отъезде «Эвелин»
-
-Ключевая новость в вырезке:
-
-> женщина, которую газета считает Эвелин Беллмонт, **уезжает / покидает город / покидает Bellmont после юбилейной недели**.
-
-Но на фотографии фактически изображена **Нора**.
-
-### Сюжетный эффект
-
-Старая публичная версия истории строится на ложной идентификации:
-
-> **газета утверждает, что уехала Эвелин, но фотография показывает другую женщину.**
-
-Это создаёт намного более сильный вопрос, чем просто «в статье не то лицо»:
-
-> **а кто на самом деле уехал?**
->
-> **и почему историю записали как историю Эвелин?**
-
-### Важно
-
-Точный окончательный газетный заголовок можно утвердить отдельно.
-
-Рабочие варианты для production mockup:
-
-- **«Эвелин Беллмонт покидает город»**
-- **«Эвелин Беллмонт уезжает после юбилейной недели»**
-- **«Дочь главы Bellmont покидает город»**
-
-До финальной фиксации лучше считать обязательным **смысл**, а не конкретную формулировку.
-
----
-
-# 3. Небольшое уточнение по доступной версии библии
-
-В доступной текущей версии `Bellmont_Day1_full_plan_anniversary_bridge` уже было зафиксировано:
-
-- газета считает другую женщину Эвелин;
-- игрок обнаруживает несоответствие;
-- точный заголовок и полный текст статьи пока не фиксировались.
-
-В этой версии production brief дополнительно фиксируется по текущему сценарному решению:
-
-> **газетная статья сообщает именно об отъезде женщины, которую ошибочно считают Эвелин.**
-
-Это теперь считать актуальным направлением для следующей реализации.
-
----
-
-# 4. Визуальная непрерывность — обязательное правило
-
-Перед генерацией новых кадров обязательно использовать существующие игровые ассеты как references.
-
-## 4.1. Эвелин
-
-Source-of-truth:
-- существующая половина фотографии из коробки.
-
-Все новые изображения Эвелин должны сохранять:
-- одно и то же лицо;
-- форму носа;
-- глаза;
-- губы;
-- подбородок;
-- возраст;
-- причёску / узнаваемую линию волос.
-
-Нельзя генерировать «похожую Эвелин».
-
----
-
-## 4.2. Нора
-
-Если утверждённого master-лица Норы ещё нет, до остальных газетных и групповых кадров нужно создать:
-
-`nora_1958_face_master.png`
-
-После утверждения **это одно лицо** используется:
-- в групповой фотографии;
-- в газетной фотографии;
-- во всех будущих архивных материалах Норы.
-
-Нельзя создавать новую Нору отдельно для каждой фотографии.
-
----
-
-## 4.3. Чарльз
-
-Если каноническое лицо Чарльза уже существует — использовать его.
-
-Если ещё нет — сначала создать и утвердить:
-
-`charles_bellmont_1958_face_master.png`
-
-Затем использовать это лицо во всех официальных материалах.
-
----
-
-## 4.4. Bellmont
-
-Любые фотографии:
-- фасада;
-- главного зала;
-- справочной;
-- грузового лифта
-
-должны происходить от уже согласованных игровых локаций.
-
-Не придумывать новый Bellmont внутри старых фотографий.
-
----
-
-# 5. Основной игровой экран после выбора 1958 года
-
-## Рабочее имя
-`bellmont_1958_materials_table_overview.png`
-
-## Тип
-**Отдельный игровой арт.**
-
-## Смысл
-
-После того как игрок выбрал подборку 1958 года, камера переходит на стол справочной.
-
-На столе разложены **5–7 отдельных интерактивных объектов**.
-
-Не один альбом.
-Не стопка, которую игра листает автоматически.
-
-Игрок сам решает, куда кликнуть.
-
----
-
-# 6. Композиция основного стола
-
-На одном столе должны физически лежать:
-
-1. **юбилейный буклет Bellmont — «50 лет»**;
-2. **программа юбилейной недели**;
-3. **конверт / папка «Официальные фотографии»**;
-4. **отдельная групповая фотография юбилейной недели**;
-5. **папка / стопка газетных вырезок**;
-6. **служебный лист / карточка комплекта**;
-7. при необходимости небольшой дополнительный предмет для атмосферы.
-
-Каждый объект — отдельный hotspot.
-
----
-
-# 7. Объект A — юбилейный буклет
-
-## Рабочий close-up
-`bellmont_1958_anniversary_booklet.png`
-
-## Роль
-Мир + семейный контекст.
-
-## Содержимое
-
-Внутри буклета можно дать 2–3 небольших просматриваемых разворота.
-
-### Разворот A1
-История Bellmont:
-- канонический фасад;
+The booklet may contain:
+- the canonical Bellmont facade;
 - `1908–1958`;
-- 50 лет магазина.
+- Charles Bellmont;
+- Evelyn Bellmont;
+- a restrained company-history spread.
 
-### Разворот A2
-**Чарльз Беллмонт**
-- официальный портрет;
-- подпись: `Чарльз Беллмонт`;
-- кратко: руководитель Bellmont & Co.
+Charles and Evelyn may have representative portraits because that is plausible family/company publicity.
 
-### Разворот A3
-**Эвелин Беллмонт**
-- официальный портрет;
-- подпись: `Эвелин Беллмонт`.
+Do not make every picture a giant character glamour portrait; the packet is about the company anniversary, not a character dossier.
 
-Допустимо вместо двух отдельных разворотов сделать один представительский семейный разворот с Чарльзом и Эвелин.
+## 5. Program
 
-## Смысл
+A compact period program.
 
-Игрок получает независимую визуальную фиксацию:
-- кто такой Чарльз;
-- как выглядит Эвелин.
+It may establish:
+- October 1958;
+- 50th anniversary;
+- 17 October as a meaningful date in the anniversary week.
 
----
+Do not over-explain.
 
-# 8. Реакция на официальный снимок Эвелин
+## 6. Photo packet
 
-После просмотра официальной фотографии:
+The photo packet may include:
+- Charles;
+- Evelyn;
+- Charles + Evelyn;
+- event/context shots.
 
-> **ЕВА:** Да. Виктория была права — это Эвелин.
+People posing for press or commemorative photography should pose naturally.
 
-Эта реплика корректна, потому что Виктория ранее прямо сказала:
+Do not make Nora, Amelia, accountants, etc. carry folders, ledgers, pencils or profession-signaling props merely to tell the player their job.
 
-> **«Это Эвелин».**
+## 7. Employee group photograph — key recognition setup
 
-Не нужно придумывать дополнительное объяснение.
+This must look like a **real large company anniversary staff photograph**, not a cast lineup.
 
----
+### Scale
 
-# 9. Объект B — программа юбилейной недели
+Use a substantially larger group than the earlier drafts:
+- dozens of employees are acceptable;
+- executives/family may be more central;
+- ordinary employees occupy plausible rows/positions.
 
-## Рабочий close-up
-`bellmont_1958_anniversary_program.png`
+### Charles
 
-## Роль
-Атмосфера + подтверждение дат.
+Charles can be central/prominent.
 
-## Что можно увидеть
+### Evelyn
 
-- Bellmont & Co.
-- `50 лет`;
-- октябрь 1958;
-- несколько мероприятий;
-- среди дат — **17 октября**.
+Evelyn should be visible and recognizable, but the image remains a company photo.
 
-Пример структуры:
+### Nora
 
-> 13 октября — открытие юбилейной экспозиции  
-> 15 октября — встреча сотрудников  
-> 17 октября — основной юбилейный приём  
-> 18 октября — специальная программа для прессы
+Nora is an ordinary employee in the group. She must **not**:
+- sit directly in front of Charles as if she were family/executive;
+- be put in the VIP center;
+- be enlarged relative to others;
+- be isolated by an obvious spotlight;
+- hold a ledger/folder/pencil as a clue.
 
-Точные мероприятия можно позже отредактировать.
+She **should nevertheless stick in the player's memory** through a combination of subtle, natural accents:
 
-## Реакция Евы
+1. **Wardrobe contrast:** light blouse under a darker cardigan/jacket, matching her canonical reference and differing from the more formal surrounding women.
+2. **Clean head background:** position her so a doorway/panel/darker architectural field sits behind her head rather than another cluster of faces.
+3. **Slight gaze deviation:** most employees look at the photographer; Nora looks just a few degrees off-camera, naturally.
+4. **Distinct silhouette/hair:** preserve her exact canonical brunette face/hair; avoid placing women with strongly similar face/hair directly around her.
+5. **No overstatement:** these cues should make the eye return to her, not announce “THIS PERSON IS A CLUE”.
 
-Короткая:
+Evelyn and Nora must both be visible in the same group photo, so later the newspaper error is visually fair.
 
-> **Семнадцатое октября. Та же дата, что на коробке.**
+## 8. Newspaper-clipping tabletop
 
----
+Opening the clipping stack leads to another physical spread of 3–5 old press items.
 
-# 10. Объект C — официальные фотографии
+The player can inspect them in any order.
 
-## Рабочий экран
-`bellmont_1958_official_photos_overview.png`
+Possible materials:
+- 50th anniversary coverage;
+- reception/event coverage;
+- facade/window-display coverage;
+- the key departure story.
 
-## Роль
-Игрок может свободно рассмотреть несколько отдельных снимков.
+Any visible Bellmont building must match the canonical exterior.
 
-На экране / в конверте:
+Do not invent a different store.
 
-### C1 — Чарльз
-Официальный представительский портрет.
+## 9. Key departure article
 
-### C2 — Эвелин
-Официальный портрет, который точно подтверждает её лицо.
+This article is the core contradiction.
 
-### C3 — Чарльз + Эвелин
-Совместный представительский снимок для юбилейного буклета / прессы.
+### Public story
 
-## Важно
+The article reports that **“Evelyn Bellmont” is leaving / has abruptly left after the anniversary week**.
 
-Все три изображения должны использовать **одни и те же утверждённые лица** персонажей.
+The piece may have a slightly sensational, gossip-column / yellow-press tone consistent with the story bible: hints of unexplained departure, strained family atmosphere, sudden decision, rumors around the anniversary, etc.
 
----
+It must **not** solve the conspiracy or reveal the true reason.
 
-# 11. Объект D — групповая фотография юбилейной недели
+Do not add a geographic city name.
 
-## Рабочий close-up
-`bellmont_1958_anniversary_group_photo.png`
+### Photograph
 
-## Это один из ключевых объектов сцены
+The photograph actually shows **Nora**, using the exact canonical Nora face.
 
-На фотографии одновременно присутствуют:
-
-- **Эвелин**;
-- **Нора**;
-- Чарльз может присутствовать;
-- ещё 6–12 сотрудников / участников юбилея.
-
-### Композиция
-
-Эвелин и Нора не должны стоять на разных краях кадра.
-
-Нужно, чтобы игрок мог нормально рассмотреть обеих и потом сопоставить лица.
-
-Например:
-- Эвелин стоит ближе к центру;
-- Нора стоит рядом / на расстоянии одного человека;
-- Чарльз в центре как руководитель.
-
-### Подпись
-
-Не раскрывать имя Норы автоматически.
-
-Рабочий вариант:
-
-> **Сотрудники Bellmont & Co. во время юбилейной недели, октябрь 1958**
-
-или:
-
-> **Чарльз и Эвелин Беллмонт с сотрудниками магазина**
-
-### Зачем этот кадр нужен
-
-Он заранее делает визуально честным последующее открытие:
-
-> игрок **уже видел обеих женщин одновременно** и может понять, что это два разных человека.
-
-То есть ошибка газеты становится не абстрактной, а очевидной.
-
----
-
-# 12. Объект E — газетные вырезки
-
-## Общий экран
-`bellmont_1958_press_table.png`
-
-## Роль
-Внутренняя мини-сцена «копания» уже внутри стола.
-
-При клике по газетам открывается отдельная раскладка 3–5 материалов.
-
-Игрок может читать их в любом порядке.
-
----
-
-# 13. Состав газетной раскладки
-
-## E1 — юбилей Bellmont
-
-Второстепенная статья.
-
-Темы:
-- 50-летие;
-- праздничное оформление;
-- гости;
-- канонический фасад Bellmont.
-
-Роль:
-атмосфера и подтверждение контекста.
-
----
-
-## E2 — юбилейный приём
-
-Второстепенная статья.
-
-Можно использовать:
-- общий снимок зала;
-- сотрудников;
-- Чарльза;
-- Эвелин.
-
-Роль:
-дать ощущение реальной прессы недели.
-
----
-
-## E3 — ключевая статья об отъезде
-
-### Рабочий файл
-`bellmont_1958_newspaper_departure_article.png`
-
-Это **центральный газетный материал**.
-
-### Содержание
-
-Статья сообщает, что:
-
-> **Эвелин Беллмонт уезжает / покидает город после юбилейной недели.**
-
-### Фотография
-
-Но на фотографии изображена **Нора**.
-
-### Ошибочная подпись
-
-Под фото или рядом:
+The article/caption identifies the photographed woman as:
 
 > **Эвелин Беллмонт**
 
-или другой газетный текст, однозначно связывающий изображённую женщину с именем Эвелин.
+This is the historical misidentification.
 
-### Ключевая задача
+### Shot design
 
-Игрок должен заметить:
+The newspaper photograph does not need to copy the group-photo angle.
 
-- это та женщина, которую он видел на групповой фотографии рядом с настоящей Эвелин;
-- следовательно, газета подписала не того человека.
+Use a natural different moment/angle connected to departure:
+- walking away from Bellmont;
+- at a curb with a small suitcase;
+- near a car/taxi;
+- leaving through a side/employee entrance;
+- another plausible 1958 departure moment.
 
----
+Varying the angle makes recognition more satisfying.
 
-# 14. Нужно ли здесь уже называть Нору
+Nora should not carry accountant props. She is being photographed as a person leaving, not as a worker posing with her job description.
 
-Нет.
+## 10. Recognition logic
 
-Для production мы знаем:
-> женщина = Нора.
+By the time the contradiction resolves, the player has had the opportunity to see:
 
-Но игрок пока формулирует:
+1. the half-photo from the box, already identified by Victoria as Evelyn;
+2. an independent official/anniversary image of Evelyn;
+3. the employee group photograph with both Evelyn and Nora visible;
+4. the departure article showing Nora but calling her Evelyn.
 
-> **Это не Эвелин. Тогда кто это?**
+The group photo is important because it lets the player remember Nora **before** the article becomes suspicious.
 
-Имя **Нора Келлер** должно появиться позже через отдельное расследование, если не будет принято новое сценарное решение.
+Runtime comparison should reuse exact image crops rather than regenerate faces.
 
----
+Result:
 
-# 15. Возможная дополнительная газетная вырезка про служебный лифт
-
-Старая версия bridge связывала газетный материал также с историей служебного лифта.
-
-Это можно сохранить **отдельной второстепенной вырезкой**, чтобы не перегружать статью об отъезде.
-
-## E4 — старый служебный лифт
-
-Рабочий файл:
-
-`bellmont_1958_newspaper_service_elevator.png`
-
-В статье:
-- канонический служебный лифт;
-- юбилейная неделя;
-- короткая локальная история / заметка;
-- возможно та же женщина — Нора — снова ошибочно воспринимается прессой как Эвелин.
-
-### Плюс такой схемы
-
-Мы не пытаемся одновременно в одной статье объяснить:
-- юбилей;
-- лифт;
-- отъезд;
-- ошибку личности;
-- будущую легенду о 7-м этаже.
-
-Это делает материалы правдоподобнее.
-
----
-
-# 16. Момент открытия ошибки
-
-После того как игрок:
-
-1. увидел официальную Эвелин;
-2. увидел групповую фотографию, где Эвелин и Нора стоят одновременно;
-3. открыл статью об отъезде;
-4. увидел, что женщина в статье — та самая вторая женщина с группового кадра;
-
-доступно сравнение.
-
----
-
-# 17. Сравнение не генерировать новым AI-рисунком
-
-## Runtime screen
-`COMPARE_DEPARTURE_PHOTO_RUNTIME`
-
-Собрать в Godot из точных утверждённых ассетов.
-
-### Слева
-официальный портрет Эвелин / crop Эвелин из группового снимка.
-
-### Справа
-crop женщины из газетной статьи.
-
-Опционально третьим маленьким референсом:
-- crop той же женщины с групповой фотографии.
-
-Это особенно хорошо визуально:
-
-```text
-Эвелин, официальный снимок
-        vs
-женщина в газете «Эвелин»
-        +
-та же женщина на групповом фото рядом с настоящей Эвелин
-```
-
-Так игрок фактически получает визуальное доказательство.
-
----
-
-# 18. Реплика Евы
-
-После сравнения:
-
-> **ЕВА:** Нет.
-
-Короткая пауза.
-
+> **ЕВА:** Нет.  
 > **ЕВА:** Это не Эвелин.
 
-Можно после закрытия статьи добавить отдельную мысль:
+The player should **not** yet be told “this is Nora Keller.”
 
-> **Тогда кто уехал вместо неё?**
+## 11. Do not reveal yet
 
-Но эту реплику пока считать **предложением**, а не зафиксированным текстом, пока отдельно не утвердим диалог.
+Do not reveal:
+- Nora's name to the player;
+- Nora's relationship to Thomas;
+- the employee-fund truth;
+- Arthur's role;
+- meaning of T2-17;
+- meaning of 7;
+- final reason for the departure;
+- what ultimately happened to the real Evelyn.
 
----
+## 12. Visual continuity
 
-# 19. Что игрок должен понять к концу сцены
+Use exact references from:
+- `../../references/characters/CHARACTER_VISUAL_CANON.md`
+- location reference manifest.
 
-Не:
+Do not generate existing faces from prose only.
 
-> «Это Нора Келлер.»
+## 13. Generation acceptance checklist
 
-А:
+For every image in this block:
 
-1. настоящая Эвелин точно установлена;
-2. в юбилейную неделю рядом с ней была другая женщина;
-3. газета использовала фотографию этой другой женщины;
-4. газета назвала её Эвелин;
-5. газета сообщила, что «Эвелин» уезжает;
-6. значит, старая публичная история **как минимум частично построена на ошибке личности**;
-7. необходимо установить, кто эта женщина.
-
----
-
-# 20. Что игрок НЕ должен узнать пока
-
-- имя Нора Келлер;
-- что Нора — мать Томаса;
-- что Томас уже узнал её почерк;
-- роль Артура;
-- значение суммы `$184 620,47`;
-- подробности фонда сотрудников;
-- смысл Т2-17;
-- смысл «7»;
-- окончательную причину отъезда;
-- что именно стало с настоящей Эвелин.
-
----
-
-# 21. Главное устройство сцены
-
-Сцена должна выглядеть так:
-
-```text
-подшивка 1958
-↓
-ОСНОВНОЙ СТОЛ
-├── юбилейный буклет
-│   ├── история Bellmont
-│   ├── Чарльз
-│   └── Эвелин
-│
-├── программа юбилейной недели
-│   └── 17 октября
-│
-├── официальные фотографии
-│   ├── Чарльз
-│   ├── Эвелин
-│   └── Чарльз + Эвелин
-│
-├── групповая фотография
-│   ├── Эвелин
-│   ├── Нора (игрок имени не знает)
-│   ├── Чарльз
-│   └── сотрудники
-│
-├── газетные вырезки
-│   ├── юбилей
-│   ├── приём
-│   ├── ОТЪЕЗД «ЭВЕЛИН» ← ключевая
-│   │      └── на фото фактически Нора
-│   └── служебный лифт (опционально отдельная статья)
-│
-└── служебная карточка комплекта
-```
-
-Игрок может ходить по этим объектам **в любом порядке**.
-
----
-
-# 22. Какая логика обязательная, а какая свободная
-
-## Свободно
-Игрок может:
-- сначала открыть программу;
-- потом газету;
-- потом буклет;
-- потом фото;
-- вернуться назад;
-- перечитать материал.
-
-## Но открытие «Это не Эвелин» лучше разрешать только после того, как игрок видел подтверждённую Эвелин
-
-Минимальное условие:
-
-```text
-seen_evelyn_reference == true
-AND
-seen_departure_article == true
-```
-
-Дополнительный бонус:
-
-```text
-seen_group_photo == true
-```
-
-Тогда Ева может сильнее опираться на визуальное сравнение.
-
----
-
-# 23. Обязательные отдельные изображения
-
-## Основной стол
-1. `bellmont_1958_materials_table_overview.png`
-
-## Буклет / официальные материалы
-2. `bellmont_1958_anniversary_booklet.png`
-3. `charles_bellmont_1958_official.png`
-4. `evelyn_bellmont_1958_official.png`
-5. `bellmont_1958_charles_evelyn_official.png`
-
-## Программа
-6. `bellmont_1958_anniversary_program.png`
-
-## Групповой снимок
-7. `bellmont_1958_anniversary_group_photo.png`
-
-## Газеты
-8. `bellmont_1958_press_table.png`
-9. `bellmont_1958_newspaper_jubilee.png`
-10. `bellmont_1958_newspaper_reception.png`
-11. `bellmont_1958_newspaper_departure_article.png`
-
-## Опциональная отдельная статья про лифт
-12. `bellmont_1958_newspaper_service_elevator.png`
-
----
-
-# 24. Изображения, которые НЕ нужно генерировать заново
-
-- текущий общий фон справочной;
-- половина фотографии из коробки;
-- runtime-экран сравнения;
-- канонический фасад Bellmont;
-- канонический грузовой лифт.
-
-Использовать их как исходники / references.
-
----
-
-# 25. Character master images
-
-Если их ещё нет как отдельных закреплённых файлов:
-
-13. `nora_1958_face_master.png`
-14. `charles_bellmont_1958_face_master.png`
-
-Эвелин source-of-truth уже существует в фотографии из коробки.
-
----
-
-# 26. Критический continuity checklist
-
-## Эвелин
-- [ ] в половине фото, официальном портрете и групповом снимке одно лицо;
-- [ ] возраст не скачет;
-- [ ] причёска остаётся узнаваемой;
-- [ ] лицо не генерируется заново без reference.
-
-## Нора
-- [ ] одно лицо в групповом снимке и газетной статье;
-- [ ] визуально явно отличается от Эвелин;
-- [ ] не карикатурно;
-- [ ] имя не раскрывается игроку преждевременно.
-
-## Чарльз
-- [ ] одно лицо во всех официальных кадрах;
-- [ ] выглядит как руководитель Bellmont 1958 года;
-- [ ] не меняется между буклетом и групповым фото.
-
-## Bellmont
-- [ ] фасад тот же;
-- [ ] интерьер тот же;
-- [ ] грузовой лифт тот же;
-- [ ] архивная версия ощущается как Bellmont на 40 лет раньше, а не другое здание.
-
----
-
-# 27. Финальный сюжетный эффект блока
-
-Начальная установка:
-
-> игрок ищет сведения об Эвелин.
-
-После осмотра стола:
-
-> игрок уверен, как выглядит Эвелин.
-
-После группового снимка:
-
-> игрок знает, что рядом с Эвелин была другая заметная женщина.
-
-После газетной статьи:
-
-> пресса назвала эту другую женщину Эвелин и сообщила, что она уехала.
-
-После сравнения:
-
-> **старая история об «отъезде Эвелин» оказывается подозрительной.**
-
-Следующий вопрос:
-
-> **Кто на самом деле изображён в газете — и кто на самом деле уехал?**
-
-Это становится мостом к будущему установлению личности Норы.
+- [ ] Bellmont & Co. remains untranslated.
+- [ ] no city/geographic label was invented.
+- [ ] dates are normal period-appropriate Arabic dates, not Roman-number styling.
+- [ ] canonical faces match references.
+- [ ] group-photo social hierarchy looks plausible.
+- [ ] Nora is memorable but not artificially promoted to VIP.
+- [ ] no profession-signaling prop is forced into a posed portrait.
+- [ ] newspaper Nora is recognizably the same Nora from the group photo.
+- [ ] building/interior matches existing Bellmont references.
