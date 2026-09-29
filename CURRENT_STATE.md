@@ -77,3 +77,21 @@ See `production/voice/voice_implementation.md`.
 ## Next work
 
 Continue the 1958 materials scene, beginning with a corrected employee group photograph and then the newspaper/departure materials, while preserving the canonical faces and Bellmont architecture.
+
+
+## Visual reference reconciliation — 2026-09-29
+
+Reviewed the latest user-supplied character boards against project history.
+
+Current identity anchors now recorded in `references/characters/CHARACTER_VISUAL_CANON.md`:
+- Evelyn;
+- Nora;
+- Charles;
+- Victoria;
+- Leonard Crane (visual reference only unless story canon explicitly uses him);
+- Thomas;
+- Amelia.
+
+**Amelia correction:** the older curly/long-hair character board is not current canon. On 2026-09-28 the user approved Amelia with a short bob / каре and required the large dialogue portrait and emotion states to preserve that hairstyle. Use the bob-hair master as the identity/silhouette source.
+
+For Victoria, the newly supplied board is the face/identity anchor. Older in-game pose art may be used for pose/gesture reference only if facial details drift from the board.
