@@ -28,7 +28,7 @@ The v7.1 Chapter 3 Amelia/Thomas dialogue is text-only; older spoken lines remai
 
 ## Next production block
 
-**Chapter 4 — the financial trail** under the expanded skeleton. First produce a detailed 30–40 minute active-gameplay design: interactions, branches, dialogue, a substantial document/accounting puzzle and coherent reference images of locations, objects and puzzle states. Show the proposed images and interaction material for approval **before implementation**. Do not treat proposed Chapter 4 visuals or text as assets already in v7.1. The later canon must preserve the distinction between an incomplete visible 1958 accounting trail and the ultimately established repayment.
+**Chapter 4 — the financial trail** under the expanded skeleton. First produce a detailed 30–40 minute active-gameplay design: interactions, branches, dialogue, a substantial document/accounting puzzle and coherent reference images of locations, objects and puzzle states. Show the proposed images and interaction material for approval **before implementation**. Do not treat proposed Chapter 4 visuals or text as assets already in v7.1. The later canon establishes an unpaid remainder of the protected employee fund; Chapter 4 must assemble that conclusion from records without prematurely revealing the full terms of agreement №317.
 
 ## Visual source of truth
 
