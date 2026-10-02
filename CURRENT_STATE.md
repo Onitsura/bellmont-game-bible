@@ -1,116 +1,39 @@
 # CURRENT STATE
 
-**Updated:** 2026-09-29
+**Updated:** 2026-10-02  
+**Playable build checked:** `Bellmont_Co_Chapter3_Furniture_v7_1_final.zip` (Godot 4.6).
 
-## Master expanded canon
+## Canon and authority
 
-The project has moved from a mostly linear Day 1 structure to the expanded investigation structure in `canon/expanded_game_skeleton.md`.
+`canon/expanded_game_skeleton.md` defines the expanded full-game structure, three investigation lines and later plot. For the actual Chapter 3 route, `canon/chapter3_identity_without_caption.md` records the implemented details and supersedes conflicting Chapter 3 planning beats in the older skeleton. `canon/dialogue_current_build.md` holds exact dialogue text and states the separate provenance of legacy voiced lines and newly added text-only lines. Open questions in section 14 of the skeleton remain open.
 
-That file is now the master canon for:
-- the full chapter structure;
-- the three post-box investigation lines (identity / money / building);
-- repeated use of locations and inventory;
-- the major puzzle chain and cross-links between clues;
-- the route toward Nora, the employee-fund investigation, T2-17, Arthur/Leonard, Evelyn's final route and Agreement №317.
-
-The currently implemented route through the box and Victoria conversation remains intact as the prologue / Chapter 1. Exact implemented dialogue is not silently rewritten by the expanded skeleton.
-
-Details explicitly listed as open in section 14 of the expanded skeleton remain undecided until separately approved.
+The hidden long-form truth is not all available to the player at this point. In particular, the current build has established neither why Nora left nor her true return journey, and it has not proved what happened to the employee-fund money.
 
 ## Implemented through
 
-Current playable build is implemented through the freight-elevator box discovery and the subsequent conversation with Victoria about the box contents.
+The playable route now extends beyond the box and Victoria conversation:
 
-Implemented route includes:
+- Prologue, lobby, archive, journal `ГАРАНТИЯ → IV / VI / II → 462`, missing agreement №317, second floor with Amelia, internal phone `14`, Thomas and the freight elevator sequence `1 → 3 → 6 → 7`, the 1958 box and the Victoria conversation.
+- **Chapter 2 / anniversary materials:** lower cabinet at the reference desk, five alternative period packets laid out on the same table, the 1908–1958 jubilee packet, booklet, program, group and reception photographs, jubilee newspaper and later departure clipping. The player sees that the newspaper caption misidentifies the woman as Evelyn; her actual name remains unknown here. Group photograph reverse: 17.10.1958, series 6, frame 4, swallow-in-oval mark. See the entrance to `canon/chapter3_identity_without_caption.md`.
+- **Chapter 3 / identity without a caption:** Amelia's auction ledger and furniture lots, middle passenger lift to fourth floor, four visible states of the blocked personnel corridor (strap, boxes, cabinet), photo-service log and sleeves, four sliding card tracks, real wrong drawers and correct `Ф-2 / Л-7`, 12-frame sheet, frame 8 → employee № 0418, Nora Keller's official personnel card, department code `4-С`, and Thomas's conversation at the second-floor freight lift. Details and exact evidence gates: `canon/chapter3_identity_without_caption.md`.
 
-- intro;
-- lobby / first Victoria conversation;
-- Thomas and service corridor;
-- archive puzzle;
-- `ГАРАНТИЯ → IV / VI / II → 462`;
-- missing archive folder №317 and card marked `ВЫДАНО`;
-- Victoria opens access to second floor;
-- Amelia;
-- flashlight;
-- internal phone extension `14`;
-- Thomas arrives at the old freight elevator;
-- elevator test `1 → 3 → 6 → 7`;
-- box from 1958;
-- note, expense document, half photograph and key;
-- Victoria conversation after the box.
+The v7.1 Chapter 3 Amelia/Thomas dialogue is text-only; older spoken lines remain in the build. New voice recordings and final human visual playtest are still pending. The automatic Chapter 3 route and corridor-state checks passed (`CHAPTER3_FULL_ROUTE_PASS`, `CORRIDOR_FOUR_STATES_PASS`); this is not a measured 30–40 minute human playthrough.
 
-## Current development block
+## Current player knowledge at the end of Chapter 3
 
-**Reference desk / 1958 anniversary materials.**
+- The woman in the later newspaper is **Nora Keller**, employee № 0418, associated with the old department code **4-С** (расчётно-фондовый сектор).
+- Thomas says Nora was his mother and that he recognized her handwriting on the box note. He had concealed that recognition.
+- Thomas was told she died during a trip. He does not know why she went. The player has **not** proved a connection between Nora's work, the expense document for **$184,620.47**, and the old agreement.
+- There are six floors. The freight indicator's `7` and key `Т2-17` remain unresolved.
 
-Current interaction concept:
+## Next production block
 
-`1958 material set → interactive table → free inspection of booklet / program / photographs / group photograph / newspaper clippings → false public story about Evelyn's departure → visual contradiction.`
+**Chapter 4 — the financial trail** under the expanded skeleton. First produce a detailed 30–40 minute active-gameplay design: interactions, branches, dialogue, a substantial document/accounting puzzle and coherent reference images of locations, objects and puzzle states. Show the proposed images and interaction material for approval **before implementation**. Do not treat proposed Chapter 4 visuals or text as assets already in v7.1. The later canon must preserve the distinction between an incomplete visible 1958 accounting trail and the ultimately established repayment.
 
-## Current locked story facts for this block
+## Visual source of truth
 
-- Victoria already identified the woman on the half-photo as Evelyn.
-- The anniversary set concerns Bellmont & Co.'s 50th anniversary in 1958.
-- Charles Bellmont must appear in official anniversary materials.
-- The group photograph contains Charles, Evelyn, Nora and many employees.
-- Nora must be memorable in the group shot without being staged as a VIP or shoved into the foreground.
-- The player does **not** know Nora's name yet.
-- A newspaper later shows Nora but identifies her as Evelyn Bellmont.
-- The article reports the departure of the woman it calls Evelyn after the anniversary week.
-- Therefore the old public story of “Evelyn's departure” becomes suspicious.
-- Do not reveal Nora's name, Nora/Thomas relationship, the employee fund truth, T2-17, or the meaning of 7 at this stage.
-
-## Visual source-of-truth
-
-Canonical references currently supplied by the user:
-
-- Bellmont exterior;
-- Charles Bellmont;
-- Nora Keller;
-- Evelyn Bellmont.
-
-Rules:
-- use the exact face references for future images;
-- do not regenerate a merely “similar” person;
-- no geographic city labels unless canon explicitly establishes one;
-- Bellmont & Co. remains untranslated everywhere;
-- period group photographs must look socially plausible: executives/family are central, ordinary employees are not inexplicably placed in VIP positions;
-- Nora should be recognizable through subtle composition/wardrobe/gaze/background separation, not explicit highlighting.
+The user-supplied Bellmont exterior and character references for Charles, Nora and Evelyn, plus `references/characters/CHARACTER_VISUAL_CANON.md`, anchor existing faces. Amelia's current short bob / каре is required in both scene and dialogue portraits. Existing architecture and unhandled props should stay consistent between views and interaction states. The setting is an American department store in 1998, late autumn, at dusk; exactly six floors. No city labels without explicit canon; **Bellmont & Co.** remains untranslated, and the family name in Russian is **Беллмонт**.
 
 ## Audio
 
-Current production decision:
-- **Eva** — generated voice;
-- **Victoria, Thomas, Amelia and other principal NPCs** — live actors rather than generated voices.
-
-The current build may still contain previously generated placeholder/legacy clips. New dialogue production should use stable line IDs so live actor files and Eva generation can be replaced/updated without changing dialogue logic.
-
-See `production/voice/voice_implementation.md` for implementation details; casting notes there may require reconciliation with this current decision.
-
-## Next work
-
-Implement **Chapter 2 — 1958 anniversary materials** as the first production block under the expanded master skeleton:
-
-- locate the anniversary set at the reference desk;
-- build the interactive materials table;
-- let the player inspect booklet / program / photographs / group photograph / newspaper clippings in a non-linear order;
-- confirm Evelyn independently;
-- reach the visual contradiction: the newspaper woman is not Evelyn;
-- preserve the three wider investigation lines without prematurely resolving Nora, the money trail or T2-17.
-
-## Visual reference reconciliation — 2026-09-29
-
-Reviewed the latest user-supplied character boards against project history.
-
-Current identity anchors now recorded in `references/characters/CHARACTER_VISUAL_CANON.md`:
-- Evelyn;
-- Nora;
-- Charles;
-- Victoria;
-- Leonard Crane (visual reference only unless story canon explicitly uses him);
-- Thomas;
-- Amelia.
-
-**Amelia correction:** the older curly/long-hair character board is not current canon. On 2026-09-28 the user approved Amelia with a short bob / каре and required the large dialogue portrait and emotion states to preserve that hairstyle. Use the bob-hair master as the identity/silhouette source.
-
-For Victoria, the newly supplied board is the face/identity anchor. Older in-game pose art may be used for pose/gesture reference only if facial details drift from the board.
+Production decision: Eva — generated voice; Victoria, Thomas, Amelia and other principal NPCs — live actors. Older clips may remain as placeholders. New dialogue needs stable audio IDs before recording or ingest; Chapter 3's technical sequence labels in the dialogue file are **not** recorded audio IDs. See `production/voice/voice_implementation.md` for implementation notes, with any older casting notes reconciled against this decision.
