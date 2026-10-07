@@ -1,3 +1,5 @@
+> **v8.0 update, 2026-10-07:** Thomas's C3-thomas_nora-12 line below is corrected. Exact new Day 2 dialogue and registered IDs are in [day2_dialogue_current_build.md](day2_dialogue_current_build.md). The old C3 sequence markers remain technical markers, not recorded audio file names.
+
 # Bellmont & Co. — все диалоги текущей сборки
 
 Разделы до главы 3: непосредственно сборка `Bellmont_Co_Freight_Box_Victoria_v2.zip` (файлы интро и трёх диалоговых окон). Раздел «Глава 3» ниже дополнен по `Bellmont_Co_Chapter3_Furniture_v7_1_final.zip`, `scripts/chapter3_flow.gd`, 02.10.2026; эти новые реплики пока текстовые. Текст реплик сохранён дословно; каждая строка с ID соответствует отдельному показу реплики после нажатия «Далее». ID пригоден для имени аудиофайла. Заголовки «Выбор» показывают текст кнопки и не являются дополнительной голосовой репликой. Поза персонажа и технический код темы не входят в произносимый текст.
@@ -871,7 +873,7 @@
 
 **C3-thomas_nora-11 · ЕВА:** А сейчас?
 
-**C3-thomas_nora-12 · ТОМАС:** Я узнал её почерк ещё тогда, у коробки. И солгал вам. Я не знал, что ещё лежит в этих бумагах.
+**C3-thomas_nora-12 · ТОМАС:** Я узнал её почерк, когда вы открыли коробку. Но тогда я ещё надеялся, что вы ищете совсем другое.
 
 **C3-thomas_nora-13 · ЕВА:** Она сказала вам, куда уезжает?
 
