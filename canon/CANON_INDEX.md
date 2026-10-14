@@ -1,22 +1,26 @@
-# CANON INDEX
+# Bellmont & Co. — CANON INDEX
 
-## Read order
+**Обновлён:** 14.10.2026. **Актуальная библия:** `master_story_bible_v0_4.md`.
 
-1. `../CURRENT_STATE.md` — actual shipped scope and next work.
-2. `master_story_bible_v0_3.md` — user-supplied master history, hidden truth and future plot; supersedes the expanded skeleton.
-3. `day2_implemented.md` — implemented second-day financial route in v8.0, interactions, puzzle logic and boundary of the episode.
-4. `chapter3_identity_without_caption.md` — implemented Chapter 2 bridge and Chapter 3 evidence chain from v7.1, retained in v8.0.
-5. `dialogue_current_build.md` — legacy dialogue/audio map plus corrected Thomas handwriting line.
-6. `day2_dialogue_current_build.md` — exact new lines, emotions and registered voice IDs, including the closing encounter and recap.
-7. `day1_anniversary_bridge.md` and relevant production documents — compare older plans with shipped scope.
-8. `../production/voice/voice_implementation.md` — prior voice workflow, reconciled with CURRENT_STATE.
+## Порядок чтения
 
-## Authority
+1. [`../CURRENT_STATE.md`](../CURRENT_STATE.md) — версии, состояние сборки, доказательные границы и открытые замечания.
+2. [`master_story_bible_v0_4.md`](master_story_bible_v0_4.md) — авторская история 1958 года, скрытая истина, сюжет будущих глав и приложение 58 с реализованным срезом 0.9.1.
+3. [`dialogue_current_0_9_1_extracted.md`](dialogue_current_0_9_1_extracted.md) — первичные реплики из GDScript, включая утверждённый v2 Томаса.
+4. [`day2_dialogue_current_build.md`](day2_dialogue_current_build.md) — редакция выгрузки для озвучки, 96 ID (включая третий акт главы 3 и переход между днями).
+5. [`../production/dialogue_reconciliation_0_9_1_2026_10_14.md`](../production/dialogue_reconciliation_0_9_1_2026_10_14.md) — конкретный смысл изменений и границы проверки.
+6. [`chapter3_identity_without_caption.md`](chapter3_identity_without_caption.md), [`day2_implemented.md`](day2_implemented.md) — исторические технические карты v7.1/v8.0; отдельные части перепроверены в актуальной сборке.
+7. [`dialogue_current_build.md`](dialogue_current_build.md) — **legacy**: интро и ранние диалоги, не подменять ими v2 Томаса и исправления знаний.
+8. [`../production/Bellmont_0.9.1_audit_2026-10-14.md`](../production/Bellmont_0.9.1_audit_2026-10-14.md) — исторический технический аудит. Не объявлять старые PASS закрытием новых 20 замечаний.
 
-- The master v0.3 governs authorial historical truth and future story. The game and exact line maps govern what is already playable or known by the player. An earlier build cannot overturn the updated master.
-- **The 1958 fund was fully repaid: $184,620.47.** №317 concerns long-term protection, not a persistent 1958 debt.
-- The red 1959 cover disguises the 1958 book. Its contents and original №317 remain a later reveal; the current second-day episode does not open it.
-- Arthur is the senior engineer and employees' representative, not the lawyer. No intact blue copy survives in 1998.
-- Earlier future-scene plans are not automatically implemented. Nora's trip, the true return journey, technical Т2 and later chapters still require their own production work.
-- Approved visual references govern faces, architecture and stationary props. The game remains a static 2D point-and-click quest.
-- Superseded drafts are historical only in `../archive/obsolete/`.
+## Иерархия при расхождениях
+
+- **Авторская истина / поздние повороты:** текущая master v0.4, не художественные предположения из кодовых реплик.
+- **Точный реализованный текст и условия 0.9.1-review:** GDScript текущей сборки и его извлечённая карта. Готовый диалог ≠ принятое прохождение.
+- **Согласованные сцены:** вариант 2 Томаса и его постановочные паузы; остальные рецензируемые элементы не объявлять утверждёнными.
+- **Старые схемы:** для истории разработки, пока не вступают в противоречие с текущим кодом и v0.4.
+- **Объективные правила:** фонд восстановлен полностью, №317 — долговременная гарантия, поддельная синяя бумага уничтожена, Нора возвращалась домой, красная «1959» скрывает подлинную 1958, всего 6 этажей.
+
+## Прежняя версия
+
+`master_story_bible_v0_3.md` может временно оставаться в `canon/` как совместимый исторический адрес для ссылок из игрового репозитория, **но не является текущим источником**. После отдельного переноса межрепозиторных ссылок её оригинал доступен как `archive/obsolete/master_story_bible_v0_3_pre_v0_4_2026_10_14.md`.
