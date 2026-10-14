@@ -1,7 +1,22 @@
 # CURRENT STATE
 
-**Updated:** 2026-10-07  
-**Playable build checked:** `Bellmont_Co_Day2_v8_0.zip` (Godot 4.6).
+**Updated:** 2026-10-14  
+**Latest reviewed source package:** `Bellmont_0.9.1-review_2026-10-14` (Godot 4.6.3, three ZIPs; source, manifest, screenshots, logs).  
+**Last prior documented integrated gameplay baseline:** `Bellmont_Co_Day2_v8_0.zip`. The 0.9.1 independent audit did not launch Godot or complete a human playthrough.
+
+
+## Latest build audit — 0.9.1-review (2026-10-14)
+
+**Read first:** [production/Bellmont_0.9.1_audit_2026-10-14.md](production/Bellmont_0.9.1_audit_2026-10-14.md). This audit supersedes the older v8.0 snapshot **for implementation and QA status only**. The authoritative story truth remains [canon/master_story_bible_v0_3.md](canon/master_story_bible_v0_3.md). The detailed historical v8.0 implementation notes below remain preserved.
+
+- **Release type:** stabilization and UX revision of 0.9.0/v9.0, not an additional narrative chapter. Current route continues through the first evening, Nora's identity, the overnight transition, furniture lot 254, Day 2 financial investigation, and Victoria.
+- **Package integrity:** reconstructed from cutted.zip + ui.zip + day2.zip; all **1,498** manifest-listed files found and SHA-256 matched, with no missing static resource paths found. Complete Godot execution still needs runtime checking.
+- **Delta versus 0.9.0 (supplied diff/manifest):** 31 changed, 234 added, 1,233 unchanged, 0 removed. Review ledger: **30** marked fixed/checked, **3** Thomas dialogue changes agreed/implemented/checked, **19** reworked and awaiting user evaluation. Future issues start at **FIX-053**.
+- **Implemented fixes:** evidence gates for Nora / 4-С / employee 0418, furniture clues and lot 254, Amelia's permission, navigation and nested back paths, journal/inventory, dialogue layout, document and item views, separate Thomas dialogue v2 (12 lines, new audio IDs).
+- **Cursor assets:** 11 registered 64×64 cursors, including female hand, magnifier and eight directional arrows. **Eight-way navigation relative to screen center is not established**; only a subset of directions is routed to actual interaction hotspots.
+- **Automated validation (Codex logs):** 85 + 124 + 384 + 212 checks, plus 191 Thomas-v2 checks = **996 logged assertions**, not 996 manual playthroughs. Independent review inspected scripts, logs and saved game screenshots but **did not run Godot**. Human completion time and regression with the user's old save are unverified.
+- **Open P0:** full human playtest with observation of every evidence gate; old-save regression; authorial review of 19 visual/UX items (document text and scene continuity in particular). Dialogue panel remains visually oversized for short lines in reviewed screenshots. New live voice clips remain pending.
+- **Do not start new chapters until this review is accepted.** Remaining story threads: Nora's trip and death, T2-17, original №317/fund ledger, Leonard, Arthur and the lawyer.
 
 ## Canon and authority
 
