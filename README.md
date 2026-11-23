@@ -2,18 +2,19 @@
 
 Источник сценарной истины для Bellmont & Co. Код игры хранится отдельно в [`Onitsura/bellmont-game`](https://github.com/Onitsura/bellmont-game).
 
-**Актуальная библия — v0.5, 23.11.2026.** Она учитывает ноябрьский сценарный день «Не для описи» и работу над HTML-диалогами. Историческая правда 1958 года сохранена. Сценарный прогресс и готовность игровой реализации учитываются отдельно.
+**Актуальная библия — v0.6, 23.11.2026.** Она включает день 3 «Не для описи» и отдельный день 4 «Другой выход» с полными согласованными диалогами, предметными действиями и шестью головоломками. Историческая правда 1958 года сохранена. Сценарный прогресс и готовность игровой реализации учитываются отдельно.
 
 ## С чего начать
 
 1. [`CURRENT_STATE.md`](CURRENT_STATE.md) — актуальный сценарный план, состояние кода и открытые вопросы.
 2. [`canon/CANON_INDEX.md`](canon/CANON_INDEX.md) — приоритеты источников и история версий.
-3. [`canon/master_story_bible_v0_5.md`](canon/master_story_bible_v0_5.md) — текущий мастер: скрытая история, арки персонажей, порядок дней и продолжение после финансовой линии.
+3. [`canon/master_story_bible_v0_6.md`](canon/master_story_bible_v0_6.md) — текущий мастер: скрытая история, арки персонажей, порядок дней и продолжение после финансовой линии.
 4. [`canon/day3_not_for_inventory.md`](canon/day3_not_for_inventory.md) — 13 сцен нового дня: чай с Амелией, семейные материалы Виктории, птица, N01–N04 и кадровое приложение Норы.
-5. [`production/dialogue_staging_2026_11_06.md`](production/dialogue_staging_2026_11_06.md) — подготовленные HTML-пробы, постоянные фоны, отдельные слои, управление и границы художественной приёмки.
-6. [`production/reconciliation_2026_11_23.md`](production/reconciliation_2026_11_23.md) — прочитанные источники, решения синхронизации и проверки документации.
+5. [`canon/day4_other_exit.md`](canon/day4_other_exit.md) — самостоятельный поход Евы, шкаф 17, предметный обратный путь и ложный след у кабинета Виктории. [Полные диалоги](production/sources/day4_other_exit_v0_7.md), [данные](production/sources/day4_other_exit_v0_7.json), [авторские границы](canon/day4_other_exit_author_notes.md), [пять референсов](references/day4_other_exit/README.md).
+6. [`production/dialogue_staging_2026_11_06.md`](production/dialogue_staging_2026_11_06.md) — подготовленные HTML-пробы, постоянные фоны, отдельные слои, управление и границы художественной приёмки.
+7. [`production/reconciliation_2026_11_23.md`](production/reconciliation_2026_11_23.md) — прочитанные источники, решения синхронизации и проверки документации.
 
-Точная карта старых реализованных реплик остаётся в [`canon/dialogue_current_0_9_1_extracted.md`](canon/dialogue_current_0_9_1_extracted.md) и [`canon/day2_dialogue_current_build.md`](canon/day2_dialogue_current_build.md). Полные тексты ноябрьского дня и финансового варианта сохранены в [`production/sources/`](production/sources/). Изображения, частные фото-референсы, HTML с встроенными картинками и ZIP в текстовый репозиторий не переносятся.
+Точная карта старых реализованных реплик остаётся в [`canon/dialogue_current_0_9_1_extracted.md`](canon/dialogue_current_0_9_1_extracted.md) и [`canon/day2_dialogue_current_build.md`](canon/day2_dialogue_current_build.md). Полные тексты ноябрьского дня и финансового варианта сохранены в [`production/sources/`](production/sources/). Для дня 4 сохранены пять последних рабочих PNG-референсов в `references/day4_other_exit/`. Частные фото-референсы, HTML со встроенными картинками и ZIP не переносятся; эти PNG не заменяют игровые ассеты.
 
 ## Приоритет
 
